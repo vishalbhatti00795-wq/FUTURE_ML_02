@@ -1,0 +1,51 @@
+ticket_id,text,category,priority
+1,I cannot log into my account. It keeps saying invalid password even though I just reset it.,login_issue,high
+2,My payment was charged twice for the same order. Please refund the duplicate charge.,billing,high
+3,The mobile app crashes every time I try to open it on my iPhone 14.,bug_report,high
+4,Can you add a dark mode option to the dashboard? It would really help reduce eye strain.,feature_request,low
+5,I forgot my username. How can I recover it?,login_issue,medium
+6,My subscription was cancelled but I was still charged for next month.,billing,high
+7,The export to PDF feature is not working. I get a blank file every time.,bug_report,medium
+8,How do I change the language settings in the app?,general_inquiry,low
+9,I have been waiting 2 weeks for my order to arrive. Tracking shows it is still in transit.,shipping,high
+10,The search bar on your website does not return any results for any query I type.,bug_report,high
+11,I would love a feature to schedule posts in advance. Is that on the roadmap?,feature_request,low
+12,My account was suddenly deactivated without any explanation. I need it restored immediately.,account_issue,high
+13,Can I get an invoice for my last 3 purchases for tax purposes?,billing,low
+14,The video tutorial links on your help page are all broken and show 404 errors.,bug_report,medium
+15,I accidentally deleted my project. Is there any way to recover it?,account_issue,high
+16,How do I upgrade my plan from Basic to Pro?,general_inquiry,low
+17,I am getting an error code 500 whenever I try to save my settings.,bug_report,high
+18,Your customer support phone number does not connect. It just rings and disconnects.,general_inquiry,medium
+19,I want to cancel my subscription. Please confirm the cancellation process.,billing,medium
+20,The dashboard is loading very slowly today. It takes over 30 seconds to open.,bug_report,medium
+21,I never received the confirmation email after signing up. Please resend it.,login_issue,medium
+22,I was billed for the annual plan but I only signed up for monthly.,billing,high
+23,Please add the ability to export data as Excel files not just CSV.,feature_request,low
+24,My team members cannot see the shared workspace I created for them.,account_issue,medium
+25,The app logged me out automatically and now I cannot log back in.,login_issue,high
+26,Is there a way to integrate your platform with Slack?,feature_request,low
+27,I received the wrong item in my order. I ordered a blue case but got a red one.,shipping,medium
+28,My profile picture is not uploading. It just shows a loading spinner forever.,bug_report,medium
+29,I need to update my billing address. Where can I do that?,billing,low
+30,The notification emails are not stopping even after I unsubscribed.,general_inquiry,medium
+31,Two-factor authentication is not sending the OTP to my phone number.,login_issue,high
+32,I have been charged but my premium features are still locked.,billing,high
+33,Can you add keyboard shortcuts to speed up navigation?,feature_request,low
+34,My data from the old account did not migrate correctly after the merge.,account_issue,high
+35,The graph on the analytics page shows incorrect numbers compared to my records.,bug_report,medium
+36,How do I add a second user to my account?,general_inquiry,low
+37,My order shows delivered but I have not received anything.,shipping,high
+38,The password reset link expired before I could use it. Please send a new one.,login_issue,medium
+39,I cannot remove an old credit card from my account. The delete button does nothing.,billing,medium
+40,Please add support for multiple languages in the interface.,feature_request,low
+41,I am locked out of my account after too many failed login attempts.,login_issue,high
+42,I was overcharged by 20 dollars this month. Please check and refund.,billing,high
+43,The file upload size limit is too small. Can you increase it to at least 50MB?,feature_request,low
+44,My account shows I have 0 credits left but I just purchased 500.,account_issue,high
+45,The terms and conditions page gives a security warning in Chrome.,bug_report,medium
+46,How long does standard shipping usually take?,shipping,low
+47,I cannot change my email address. The save button is greyed out.,account_issue,medium
+48,The coupon code I received is not being accepted at checkout.,billing,medium
+49,Your website is down. I am getting a connection timeout error.,bug_report,high
+50,Can you add a summary report that is automatically emailed each week?,feature_request,low
